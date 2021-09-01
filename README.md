@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <h3 align="left">My Badge</h3>
 <p align="left">
   <a href="https://api.badgr.io/public/assertions/D_Q9rbmrSemZ8U8_wQa6ZQ" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-D_Q9rbmrSemZ8U8_wQa6ZQ.png" alt="Postman Student Expert" width="80" height="80"/></a>
-  <a href="https://api.badgr.io/public/assertions/nIDwJfYvTSWWvpv7-QRIcQ" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-V4wlIc_WSaCzNqnUY51eHw.png" alt="Postman APIs 101" width="80" height="80"/></a>
+  <a href="https://api.badgr.io/public/assertions/V4wlIc_WSaCzNqnUY51eHw" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-V4wlIc_WSaCzNqnUY51eHw.png" alt="Postman APIs 101" width="80" height="80"/></a>
   <a href="https://api.badgr.io/public/assertions/nIDwJfYvTSWWvpv7-QRIcQ" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-nIDwJfYvTSWWvpv7-QRIcQ.png" alt="Postman API Tester" width="80" height="80"/></a>
 </p>
