@@ -32,4 +32,6 @@ Here are some ideas to get you started:
   <a href="https://api.badgr.io/public/assertions/Ah4Ak89TTvy9cFNOWvGnHA" target="_blank"> <img src="https://api.badgr.io/public/assertions/Ah4Ak89TTvy9cFNOWvGnHA/image" alt="30 days of Postman  for developers" width="90" height="90"/></a>
   <a href="https://api.badgr.io/public/assertions/V4wlIc_WSaCzNqnUY51eHw" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-V4wlIc_WSaCzNqnUY51eHw.png" alt="Postman APIs 101" width="80" height="80"/></a>
   <a href="https://api.badgr.io/public/assertions/nIDwJfYvTSWWvpv7-QRIcQ" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-nIDwJfYvTSWWvpv7-QRIcQ.png" alt="Postman API Tester" width="80" height="80"/></a>
+  <a href="https://api.badgr.io/public/assertions/0hULoD8OS9Kyb6DsmWHS2w" target="_blank"> <img src="https://media.badgr.com/uploads/badges/assertion-0hULoD8OS9Kyb6DsmWHS2w.png" alt="Postman API Adoption" width="80" height="80"/></a>
+  
 </p>
