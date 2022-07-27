@@ -18,6 +18,4 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=heberpcl&show_icons=true&locale=en" alt="heberpcl" /></p><br/>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberpcl&show_icons=true&locale=en&layout=compact" alt="heberpcl" /></p><br/>
-
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=heberpcl&label=Profile%20views&color=0e75b6&style=flat" alt="heberpcl" /></p></br>
