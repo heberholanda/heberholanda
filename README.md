@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heber Holanda</h1>
-<h3 align="center">An eccentric backend developer.</h3>
+<h3 align="center">An eccentric Backend Developer C# / NetCore.</h3>
 
 - 🌱 I’m currently learning **ChatBots, WhatsApp for Business, GupShup**
 
