@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heber Holanda</h1>
 <h3 align="center">An eccentric Backend Developer C# / NetCore.</h3>
 
-- 🌱 I’m currently learning **ChatBots, WhatsApp for Business, GupShup**
+- 🌱 I’m currently learning **IoT, ChatBots, WhatsApp for Business**
 
 - 📫 How to reach me **heberholanda@gmail.com**
 
