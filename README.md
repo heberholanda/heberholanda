@@ -34,7 +34,9 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 </p>
-  
+
+<hr/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=heberholanda&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align="left"><img align="left" src="https://github-profile-trophy.vercel.app/?username=heberholanda&theme=onedark&row=2&column=4" alt="Heber Holanda" /></p>
