@@ -39,8 +39,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=heberholanda&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align="left"><img align="left" src="https://github-profile-trophy.vercel.app/?username=heberholanda&theme=onedark&row=2&column=4" /></p>
-
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=heberholanda&theme=onedark&show_icons=true&locale=en" /></p><br/>
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=heberholanda&label=Profile%20views&color=0e75b6&style=flat" /></p></br>
+
+<p align="left"><img align="left" src="https://github-profile-trophy.vercel.app/?username=heberholanda&theme=onedark&row=2&column=4" /></p>
