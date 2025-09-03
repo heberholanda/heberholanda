@@ -37,10 +37,13 @@
 
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=heberholanda&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heberholanda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=heberholanda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=heberholanda&theme=dark&hide_border=true)<br/>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=heberholanda&theme=onedark&show_icons=true&locale=en" /></p><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=heberholanda&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)<br/>
 
-<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=heberholanda&label=Profile%20views&color=0e75b6&style=flat" /></p></br>
-
-<p align="left"><img align="left" src="https://github-profile-trophy.vercel.app/?username=heberholanda&theme=onedark&row=2&column=4" /></p>
+---
+![](https://komarev.com/ghpvc/?username=heberholanda&label=Profile%20views&color=0e75b6&style=flat)<br/>
