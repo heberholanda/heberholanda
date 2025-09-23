@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heber Holanda</h1>
 <h3 align="center">An eccentric Backend Developer C# / NetCore.</h3>
 
-- 🌱 I’m currently learning **Crawler, IoT, ChatBots, WhatsApp for Business**
+🌱 I’m currently learning **eBay API, Crawler, IoT, ChatBots, WhatsApp for Business**
 
-- 📫 How to reach me **heberholanda@gmail.com**
+📫 How to reach me **heberholanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
